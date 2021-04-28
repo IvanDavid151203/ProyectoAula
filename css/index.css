@@ -1,0 +1,31 @@
+@charset "utf-8";
+/* CSS Document */
+.licontainer{
+    display: flex;
+    list-style: none;
+    color:black;
+    background: grey;
+    padding: 20px;
+    margin: -10px;
+    
+}
+nav ul{
+    display: flex;
+}
+.color{
+    background:burlywood;
+    padding: 10px;
+    margin: -8px;
+}
+nav a{
+    padding-left: 20px;
+}
+.tamaño{
+    font-size: 30px;
+}
+.formulario{
+    background:white;
+    padding: 0.5px;
+    margin-left: 0.1px;
+    margin-right: 1500px;
+}
